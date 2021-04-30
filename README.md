@@ -8,6 +8,10 @@ It supports additional features like:
 
 Info how to use addiotnal features you can find in example_vdf file.
 
-Good luck and have fun!
+
+Below image of more complex use of custom characters
 
 ![alt text](https://github.com/maskaz/Noritake_vfd_python/blob/main/20210430_100552.jpg)
+
+
+Good luck and have fun!
