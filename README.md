@@ -6,4 +6,8 @@ It supports additional features like:
 - Create and print custom chars
 - Brightness control
 
+Info how to use addiotnal features you can find in example_vdf file.
+
+Good luck and have fun!
+
 
