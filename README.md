@@ -10,4 +10,4 @@ Info how to use addiotnal features you can find in example_vdf file.
 
 Good luck and have fun!
 
-
+![alt text](https://github.com/maskaz/Noritake_vfd_python/blob/main/20210430_100552.jpg)
